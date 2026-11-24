@@ -1,4 +1,4 @@
-# Digital Twins: YOLO-Based Vehicle Detection and Tracking
+# Digital Twins: YOLO-Based Vehicle Detection and Tracking on Vassar Street, Cambridge, Massachusetts
 
 Real-world traffic data collection and computer vision-based vehicle detection and tracking to support transportation planning and Digital Twin development. This project uses a traffic video recorded on Vassar Street, Cambridge, Massachusetts (MA).
 
