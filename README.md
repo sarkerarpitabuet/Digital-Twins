@@ -33,12 +33,25 @@ Application of the trained YOLO model for vehicle detection and tracking using S
 ### 7. YOLO Model Performance Evaluation
 Evaluation of the trained model using the following performance plots:
 
-- F1–Confidence Curve
-- Precision–Confidence Curve
-- Precision–Recall Curve
-- Recall–Confidence Curve
-- Confusion Matrix
-- Normalized Confusion Matrix
+## Model Performance Visualizations
+
+### F1-Confidence Curve
+![F1 Curve](BoxF1_curve.png)
+
+### Precision-Recall Curve
+![PR Curve](BoxPR_curve.png)
+
+### Precision-Confidence Curve
+![Precision Curve](BoxP_curve.png)
+
+### Recall-Confidence Curve
+![Recall Curve](BoxR_curve.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Normalized Confusion Matrix
+![Normalized Confusion Matrix](confusion_matrix_normalized.png)
 
 ## Project Scope
 
